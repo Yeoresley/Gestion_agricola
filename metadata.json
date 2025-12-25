@@ -1,0 +1,7 @@
+{
+  "name": "Delfín Castillo | SQLite Edition",
+  "description": "Sistema de gestión agrícola portable con base de datos SQLite3 integrada para uso local en Windows 11.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
